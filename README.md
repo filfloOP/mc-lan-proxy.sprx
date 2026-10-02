@@ -40,5 +40,8 @@ Start your game on the PS4 and enjoy your servers!
 
 Minecraft Java Spigot-26.1 plugin that allows users to connect using mc-lan-proxy.sprx, and Geyser Standalone PS4, a server that bridges existing Java servers.
 
+Geyser Standalone PS4
 https://www.mediafire.com/file/aoaw6wla3aa5706/geyser_standalone_ps4.jar/file
+
+Plugin Geyser Ps4
 https://www.mediafire.com/file/79c3xc8u1f62e34/geyser-ps4.jar/file
